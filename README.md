@@ -3,7 +3,7 @@ A project that works with sorted dictionary in C#.
 
 The application is able to auto detect any '&' or white spaces in a given string.
 
-The application then count the number of occurrences of each work in a given string using a sorted dictionary in C#.
+The application then count the number of occurrences of each word in a given string using a sorted dictionary in C#.
 
 ## Technical Details
 Technology stacks and approach used:
