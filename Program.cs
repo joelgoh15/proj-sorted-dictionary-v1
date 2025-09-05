@@ -10,7 +10,11 @@ namespace project11_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("an applica");
+            //Console.WriteLine("an applica");
+            Console.WriteLine("A project that works with sorted dictionary in C#.");
+            Console.WriteLine();
+            Console.WriteLine("given example input string:");
+            Console.WriteLine("This  is & an& example & string");
             
             SortedDictionary<string, int> dictionary;
             string input; 
